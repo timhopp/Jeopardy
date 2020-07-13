@@ -1,0 +1,17 @@
+body {
+    background-image: url("https://bloximages.newyork1.vip.townnews.com/heraldmailmedia.com/content/tncms/assets/v3/editorial/9/df/9dfc7500-0bc3-54b0-8d32-5827964f782e/5c808ce44daaa.image.jpg?resize=1920%2C1080");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    flex-grow: 1;
+}
+
+.bg-purp {
+  background-color: #9DC7C8;
+  color: #3B0D11;
+}
