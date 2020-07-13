@@ -5,6 +5,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    
 }
 
 main {
@@ -15,3 +16,21 @@ main {
   background-color: #9DC7C8;
   color: #3B0D11;
 }
+
+
+.bg-purple{
+    background-color: #795C5F;
+  }
+  
+  .bg-blue{
+    background-color: #729EA1;
+  }
+  .bg-green{
+    background-color: #13505B;
+  }
+  .bg-pink{
+    background-color: #EF9CDA;
+  }
+  .bg-lav{
+    background-color: #CFBAE1;
+  }
